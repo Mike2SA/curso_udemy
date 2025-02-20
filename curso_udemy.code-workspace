@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../xampp7/htdocs/menushow"
+		},
+		{
+			"path": "../todo_list"
+		},
+		{
+			"path": "../carrinho"
+		}
+	],
+	"settings": {}
+}
